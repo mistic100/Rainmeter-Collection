@@ -1,0 +1,11 @@
+{
+  "name": "rainmeter-audio-analyzer-generator",
+  "version": "1.0.1",
+  "main": "generator.js",
+  "dependencies": {
+    "colorbrewer": "latest",
+    "commander": "latest",
+    "tinycolor2": "latest",
+    "tinygradient": "latest"
+  }
+}

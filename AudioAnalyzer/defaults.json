@@ -1,0 +1,36 @@
+{
+  "width": 1920,
+  "width2": 150,
+  "height": 200,
+  "height2": 1080,
+  "orientation": {
+    "value": "up",
+    "vertical": false,
+    "flip": false
+  },
+  "bands": 96,
+  "padding": 0.4,
+  "colors": "#CC000000",
+  "fade": true,
+  "minAlpha": 50,
+  "maxAlpha": 255,
+  "marks": true,
+  "background": "#33000000",
+  "blur": true,
+  "nowPlaying": true,
+  "nowPlayingColor": "#FFFFFFFF",
+  "nowPlayingSize": 28,
+  "nowPlayingOpen": true,
+  "coverMask": "round",
+  "channel": "Sum",
+  "fft": {
+    "size": 2048,
+    "overlap": 1024,
+    "attack": 40,
+    "decay": 60,
+    "min": 20,
+    "max": 20000,
+    "sensitivity": 40
+  },
+  "verbose": false
+}
