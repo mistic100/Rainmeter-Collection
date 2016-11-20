@@ -14,6 +14,10 @@ Some Rainmeter skins I did when I was bored. All available on [DeviantArt](http:
 
 [![NixieVUMeter](NixieVUMeter/Preview.png)](NixieVUMeter)
 
+## SpiderVUMeter
+
+[![SpiderVUMeter](SpiderVUMeter/Preview.png)](SpiderVUMeter)
+
 ## CircularClock
 
 [![CircularClock](CircularClock/Preview.png)](CircularClock)
