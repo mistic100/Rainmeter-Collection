@@ -2,6 +2,10 @@
 
 Some Rainmeter skins I did when I was bored. All available on [DeviantArt](http://mistic100.deviantart.com/gallery/61022491/Rainmeter)
 
+## NylasMail
+
+[![NylasMail](NylasMail/Preview.png)](NylasMail)
+
 ## AudioAnalyzer
 
 [![AudioAnalyzer](AudioAnalyzer/Preview.png)](AudioAnalyzer)
