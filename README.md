@@ -29,3 +29,7 @@ Some Rainmeter skins I did when I was bored. All available on [DeviantArt](http:
 ## BarsClock
 
 [![BarsClock](BarsClock/Preview.png)](BarsClock)
+
+## Nixie Clock
+
+[![NixieClock](NixieClock/Preview.png)](NixieClock)
