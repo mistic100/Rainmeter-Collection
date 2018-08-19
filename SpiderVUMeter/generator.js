@@ -5,8 +5,7 @@ const GRAD = 1;
 
 const nbBands = 10;
 const nbCircles = 4;
-
-const mode = process.argv[2] !== undefined ? parseInt(process.argv[2]) : GRAD;
+const mode = GRAD;
 
 var content = `
 [Variables]`;

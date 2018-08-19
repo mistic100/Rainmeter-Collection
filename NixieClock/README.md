@@ -2,6 +2,8 @@
 
 Vintage nixie tubes clock widget.
 
+Three sizes, three backgrounds and choice of seconds in the context menu.
+
 ![Preview](Preview.png)
 
 
