@@ -1,5 +1,7 @@
 # Rainmeter NylasMail
 
+DISCONTINUED since there are no more free plan on Nylas API (minimum is $99/month).
+
 Simple mails counter using https://nylas.com API.
 
 ![Preview](Preview.png)
