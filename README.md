@@ -4,7 +4,7 @@ Some Rainmeter skins I did when I was bored. All available on [DeviantArt](http:
 
 ## AnalogVUMeter
 
-[![AnalogVUMeter](AnalogVUMeter/Preview.png)(AnalogVUMeter)
+[![AnalogVUMeter](AnalogVUMeter/Preview.png)](AnalogVUMeter)
 
 ## NylasMail
 
