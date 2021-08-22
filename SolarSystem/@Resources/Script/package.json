@@ -1,0 +1,14 @@
+{
+  "name": "solar-system",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^19.0.1",
+    "@rollup/plugin-node-resolve": "^13.0.4",
+    "@tubular/astronomy": "^3.0.3",
+    "minimist": "^1.2.5",
+    "rollup": "^2.54.0"
+  }
+}
